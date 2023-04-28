@@ -1,0 +1,21 @@
+{
+  "name": "nextcloud/cors_origin_filter_settings",
+  "description": "Lint config for nextcloud/cors_origin_filter_settings",
+  "license": "MIT",
+  "config": {
+    "optimize-autoloader": true,
+    "classmap-authoritative": true,
+    "platform": {
+      "php": "8.2"
+    }
+  },
+  "scripts": {
+    "cs:fix": "php-cs-fixer fix",
+    "cs:check": "php-cs-fixer fix --dry-run --diff",
+    "lint": "find . -name \\*.php -not -path './vendor/*' -print0 | xargs -0 -n1 php -l",
+    "test:unit": "echo 'Only testing installation of the app'"
+  },
+  "require-dev": {
+    "nextcloud/coding-standard": "^1.0.0"
+  }
+}

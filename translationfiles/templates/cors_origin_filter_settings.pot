@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2023-04-27 22:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialAppInfoFakeDummyForL10nScript.php:2
+msgid "Cors origin filter settings"
+msgstr ""
+
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "Whitelist origins"
+msgstr ""
+
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialAppInfoFakeDummyForL10nScript.php:4
+msgid ""
+"Cors origin filter is meant to protect web frontend to\n"
+"\t\tonly allow requests to defined endpoint urls to a list of allowed "
+"origins."
+msgstr ""
+
+#. TRANSLATORS src/App.vue:23
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:2
+msgid "CORS Allowed Origins"
+msgstr ""
+
+#. TRANSLATORS src/App.vue:26
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:4
+msgid ""
+"To allow origins to send requests in apps url endpoints specify them below. "
+"Note that any allowed origin can perform requests, often means using all the "
+"CRUD methods, in browser scope. For security reasons, it is recommended to "
+"allow as few origins as possible."
+msgstr ""
+
+#. TRANSLATORS src/App.vue:29
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:6
+msgid "Per-app allowed origins"
+msgstr ""
+
+#. TRANSLATORS src/components/GeneralAllowedOriginField.vue:25
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:8
+msgid "General allowed origins"
+msgstr ""
+
+#. TRANSLATORS src/components/GeneralAllowedOriginField.vue:27
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:10
+msgid "https://cms.example.com,https://example.com"
+msgstr ""
+
+#. TRANSLATORS src/components/GeneralAllowedOriginField.vue:97
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:12
+msgid "Origins saved"
+msgstr ""
+
+#. TRANSLATORS src/components/GeneralAllowedOriginField.vue:102
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:14
+msgid "Bad syntax url, not saved"
+msgstr ""
+
+#. TRANSLATORS src/components/GeneralAllowedOriginField.vue:111
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:16
+msgid "Recovered last saved origins"
+msgstr ""
+
+#. TRANSLATORS src/components/PerAppAllowedOriginItem.vue:27
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:18
+msgid "Delete"
+msgstr ""
+
+#. TRANSLATORS src/components/PerAppAllowedOriginItem.vue:30
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:20
+msgid "Update"
+msgstr ""
+
+#. TRANSLATORS src/components/PerAppAllowedOriginsField.vue:34
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:22
+msgid "Add new per app allowed origin"
+msgstr ""
+
+#. TRANSLATORS src/components/PerAppAllowedOriginsField.vue:51
+#: /var/www/clients/client1/web97/web/apps/cors_origin_filter_settings/specialVueFakeDummyForL10nScript.js:24
+msgid "Add"
+msgstr ""
