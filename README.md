@@ -1,13 +1,14 @@
 # CORS Origin Filter Settings
 
-By now this app is still in draft state as it needs to be discussed and planned in https://github.com/nextcloud/server/issues/37716 , or in the pull request: https://github.com/nextcloud/server/pull/37896
-{: .alert .alert-warning}
+> :warning: **WIP Draft APP**
+> 
+>  By now this app is still in draft state as it needs to be discussed and planned in https://github.com/nextcloud/server/issues/37716 , or in the pull request: https://github.com/nextcloud/server/pull/37896
 
 This app provides the possibility to manage some settings of how Cross-Origin Resource Sharing (CORS) is handled.
 
 ## Screenshot
 
-![Screenshot of configuration](https://gitlab.com/communia/cors_origin_filter_settings/-/raw/main/public/1.png)
+![Screenshot of configuration](screenshots/1.png "cors settings screenshot")
 
 ## Description
 
