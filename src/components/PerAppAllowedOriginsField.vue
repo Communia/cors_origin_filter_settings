@@ -62,7 +62,7 @@
 import { generateUrl } from '@nextcloud/router'
 import axios from '@nextcloud/axios'
 import { NcButton } from '@nextcloud/vue'
-import Plus from 'vue-material-design-icons/Plus'
+import Plus from 'vue-material-design-icons/Plus.vue'
 import PerAppAllowedOriginItem from './PerAppAllowedOriginItem.vue'
 
 export default {
